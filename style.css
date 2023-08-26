@@ -120,7 +120,6 @@ p{
 }
 
 .skills-grid {
-  /* background-color: var(--bg-body2); */
   display: grid;
   justify-content: center;
   margin-bottom: 2rem;
@@ -136,7 +135,7 @@ p{
 
 .skill-img-div {
   width: 100px;
-  height: 100px;
+  /* height: 100px; */
   margin-bottom: 1rem;
 }
 
